@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devtiwari-bit.github.io/bgmi-free-fire-name-generator/sitemap.xml
+
